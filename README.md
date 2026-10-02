@@ -1,1 +1,2 @@
-# LISTA-DE-EXERC-CIOS-Algoritmos-de-Ordena-o-Bubble-Selection-Insertion-Merge-Sort-e-Quicksort
+# LISTA DE EXERCIOS Algoritmos de Ordena o Bubble Selection  Insertion Merge Sort e Quicksort
+Exercicios
